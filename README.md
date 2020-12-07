@@ -9,8 +9,8 @@ Simple clock division component
 
 ## horizontal_sobel.vhd
 Used to calculate the horizontal sobel output of a 3x3 pixel matrix
-  Input : 3x3 8-bit pixel matrix
-  Output: 10-bit horizontally based convolution value of the pixels 
+  * Input : 3x3 8-bit pixel matrix
+  * Output: 10-bit horizontally based convolution value of the pixels 
 
 ## vertical_sobel.vhd
 Used to calculate the vertical sobel output of a 3x3 pixel matrix
